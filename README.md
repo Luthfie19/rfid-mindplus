@@ -41,9 +41,9 @@ It uses the popular [MFRC522 Arduino library](https://github.com/miguelbalboa/rf
 ---
 
 ## Installation
-1. Install the **MFRC522** library by Miguel Balboa from the Arduino IDE Library Manager:
-   - Open Arduino IDE → Tools → Manage Libraries...
-   - Search for `MFRC522` and install the latest version.
+1. Install the extention on mind plus:
+   - Open mind plus → extention → user-ext → import user ext...
+   - Search for file `rfid-mind plus` and just import config.json.
 2. Connect the hardware as per the pinout above.
 3. Upload the example sketch.
 
