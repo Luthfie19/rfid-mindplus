@@ -1,4 +1,4 @@
-# MFRC522 RFID Module – Arduino Library Example
+# MFRC522 RFID Module – mind plus extentions
 
 ![](./arduinoC/_images/featured.png)
 
